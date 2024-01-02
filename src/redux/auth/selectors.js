@@ -1,0 +1,1 @@
+export const selectUserAuthention = state => state.auth.authenticated;

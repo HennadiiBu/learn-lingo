@@ -1,0 +1,17 @@
+.link {
+  text-decoration: none;
+}
+
+.loginIcon {
+  color: #9fb7ce;
+  margin-right: 8px;
+}
+
+.loginButton{
+    background-color: inherit;
+    border: none;
+    outline: none;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
